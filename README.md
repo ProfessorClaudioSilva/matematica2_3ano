@@ -2,26 +2,26 @@
 
 Este diretório contém materiais, atividades e recursos relacionados ao ensino de Matemática II - PROGRAMAÇÃO II, para 3º anos do Ensino Médio. O objetivo é apoiar os alunos com conteúdos organizados para seus projetos da disciplina; facilitar o aprendizado dos principais tópicos.
 
-## Estrutura do Diretório
+## Conteúdo
+- Aula 1
+- Aula 2
+- Aula 3
 
-- **Planos de Aula**: Sequências didáticas e roteiros para as aulas.
-- **Atividades**: Exercícios, jogos matemáticos e desafios.
-- **Materiais de Apoio**: Cartazes, tabelas, figuras geométricas e outros recursos visuais.
-- **Avaliações**: Provas, testes e listas para avaliação formativa e somativa.
-- **Sugestões de Leituras**: Indicações de livros e materiais complementares.
+## Unidades na Plataforma Alura
+### 1º Trimestre 2025
+- Unidade 1
+- Unidade 2
+### 2º Trimestre 2025
 
-## Temas Abordados
-
-- Números e Operações
-- Geometria e Espaço
-- Medidas (comprimento, massa, tempo)
-- Tratamento da Informação (gráficos e tabelas)
-- Resolução de Problemas
+- Unidade 1
+- Unidade 2
+- Unidade 3
+- Unidade 4
 
 ## Como Utilizar
 
 1. Navegue pelas pastas conforme o tema ou tipo de material desejado.
-2. Baixe ou imprima as atividades e utilize-as em sala de aula ou como tarefa para casa.
+2. Baixe ou imprima as atividades e utilize-as em seus projetos.
 3. Adapte os conteúdos de acordo com a necessidade dos alunos.
 
 ## Contribuição
