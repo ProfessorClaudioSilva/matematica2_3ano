@@ -26,7 +26,8 @@ Este diretório contém materiais, atividades e recursos relacionados ao ensino 
 
 ## Contribuição
 
-Sugestões de melhorias, novos exercícios e adaptações são bem-vindas! Para contribuir, envie um pull request ou abra uma issue com sua sugestão.
+Sugestões de melhorias, novos exercícios e adaptações são bem-vindas! <br>
+Para contribuir, envie um pull request ou abra uma issue com sua sugestão.
 
 ---
 
