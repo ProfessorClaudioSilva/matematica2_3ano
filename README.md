@@ -1,6 +1,6 @@
 # matemática 2º e 3º anos
 
-Este diretório contém materiais, atividades e recursos relacionados ao ensino de Matemática para o 2º e 3º anos do Ensino Fundamental. O objetivo é apoiar professores e alunos com conteúdos organizados, exercícios práticos e sugestões de atividades para facilitar o aprendizado dos principais tópicos da disciplina.
+Este diretório contém materiais, atividades e recursos relacionados ao ensino de Matemática II - PROGRAMAÇÃO II, para 3º anos do Ensino Médio. O objetivo é apoiar os alunos com conteúdos organizados para seus projetos da disciplina; facilitar o aprendizado dos principais tópicos.
 
 ## Estrutura do Diretório
 
@@ -31,5 +31,5 @@ Sugestões de melhorias, novos exercícios e adaptações são bem-vindas! Para 
 ---
 
 **Contato:**  
-Professor(a) responsável: [Seu Nome Aqui]  
-Email: [seu.email@escola.edu.br]
+&copy;2025 Professor Caudio R. Silva  
+Email: roberto.silva.claudio@escola.pr.gov.br
