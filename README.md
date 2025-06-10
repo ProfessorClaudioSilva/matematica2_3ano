@@ -1,4 +1,6 @@
-# matemática 2º e 3º anos
+# matematica2_3anos
+
+# Matemática II - PROGRAMAÇÃO II
 
 Este diretório contém materiais, atividades e recursos relacionados ao ensino de Matemática II - PROGRAMAÇÃO II, para 3º anos do Ensino Médio. O objetivo é apoiar os alunos com conteúdos organizados para seus projetos da disciplina; facilitar o aprendizado dos principais tópicos.
 
@@ -14,7 +16,7 @@ Este diretório contém materiais, atividades e recursos relacionados ao ensino 
 
 ### 2º Trimestre 2025
 
-- Unidade 1
+- **Unidade 1**
 - Unidade 2
 - Unidade 3
 - Unidade 4
