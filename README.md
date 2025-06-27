@@ -8,6 +8,9 @@ Este diretório contém materiais, atividades e recursos relacionados ao ensino 
 - Aula 1
 - Aula 2
 - Aula 3
+- Aula 4
+
+
 
 ## Unidades na Plataforma Alura
 ### 1º Trimestre 2025
